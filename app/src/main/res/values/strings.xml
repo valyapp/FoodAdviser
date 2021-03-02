@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Что приготовить</string>
+    <string name="empty_selected">Тут будут варианты</string>
+    <string name="get_options_button">Показать варианты</string>
+    <array name="meals">
+        <item>Завтрак</item>
+        <item>Обед</item>
+        <item>Ужин</item>
+    </array>
+
+</resources>
